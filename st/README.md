@@ -27,7 +27,7 @@ some function come from the official patch.
 visit suckless.org to get more patches.
 
 ```sh
-patch < dwm-xxx.diff
+patch < st-xxx.diff
 ```
 */patches/* is the patches I patched.
 
