@@ -1,0 +1,8 @@
+dmenu/dmenu
+dwm/dwm
+st/st
+*.o
+*.tar.gz
+*.orig
+*.rej
+TODO
