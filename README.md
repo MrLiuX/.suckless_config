@@ -1,6 +1,6 @@
 # AsherLiu's build of suckless( dwm / st / dmenu )
 
-* [DWM](./dwm/README.md)
-* [st](./st/README.md)
-* [dmenu](./dmenu/README.md)
+* [DWM](https://github.com/Mrliuxchn/.suckless_config/tree/master/dwm)
+* [st](https://github.com/Mrliuxchn/.suckless_config/tree/master/st))
+* [dmenu](https://github.com/Mrliuxchn/.suckless_config/tree/master/dmenu)
 
