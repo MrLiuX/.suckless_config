@@ -1,4 +1,5 @@
 dmenu/dmenu
+dmenu/stest
 dwm/dwm
 st/st
 *.o
