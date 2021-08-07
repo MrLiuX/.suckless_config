@@ -17,6 +17,17 @@ Afterwards enter the following command to build and install dwm (if necessary as
 sudo make clean install
 ```
 
+## Patches
+
+some function come from the official patch.
+
+visit suckless.org to get more patches.
+
+```sh
+patch < dwm-xxx.diff
+```
+*/patches/* is the patches I patched.
+
 ## Running dwm
 
 Add the following line to your .xinitrc to start dwm using startx:
