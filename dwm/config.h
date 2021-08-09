@@ -2,7 +2,7 @@
 
 /* appearance */
 static const unsigned int borderpx  = 0;        /* border pixel of windows */
-static const unsigned int gappx     = 12;        /* gaps between windows */
+static const unsigned int gappx     = 16;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 0;        /* 0 means bottom bar */
@@ -28,8 +28,8 @@ static const unsigned int alphas[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "一", "二", "三", "四", "六", "VI", "VII", "VIII", "IX" };
-static const char *tagsalt[] = { "壹", "贰", "叁", "肆", "伍", "6", "7", "8", "9" };
+static const char *tags[] = { "一", "二", "三", "四", "五", "六", "七" };
+static const char *tagsalt[] = { "壹", "贰", "叁", "肆", "伍", "陆", "柒" };
 
 static const Rule rules[] = {
 	/* xprop(1):
