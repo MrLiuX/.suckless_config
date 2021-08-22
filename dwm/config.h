@@ -6,6 +6,7 @@ static const unsigned int gappx     = 16;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 0;        /* 0 means bottom bar */
+static const Bool viewontag         = True;     /* Switch view on tag switch */
 static const char *fonts[]          = { "FiraCode Nerd Font:size=16" };
 static const char dmenufont[]       = "FiraCode Nerd Font:size=16";
 static const char col_gray1[]       = "#111111";
@@ -29,7 +30,7 @@ static const unsigned int alphas[][3]      = {
 
 /* tagging */
 static const char *tags[] = { "一", "二", "三", "四", "五", "六", "七" };
-static const char *tagsalt[] = { "壹", "贰", "叁", "肆", "伍", "陆", "柒" };
+static const char *tagsalt[] = { "1", "2", "3", "4", "5", "6", "7" };
 
 static const Rule rules[] = {
 	/* xprop(1):
